@@ -1,4 +1,4 @@
-# Time Tracking API
+# Time Tracking API ⏰
 
 [WIP]
 
